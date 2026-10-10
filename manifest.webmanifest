@@ -1,0 +1,18 @@
+{
+  "name": "Alma Mayor · Anita",
+  "short_name": "Alma Mayor",
+  "description": "Una compañera cariñosa para Anita",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf7fd",
+  "theme_color": "#795c9e",
+  "icons": [
+    {
+      "src": "icono-alma.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
