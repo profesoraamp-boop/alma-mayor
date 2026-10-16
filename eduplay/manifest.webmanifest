@@ -1,0 +1,18 @@
+{
+  "name": "EduPlay · Aprende jugando",
+  "short_name": "EduPlay",
+  "description": "Organización, práctica y juegos educativos en una app",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5ff",
+  "theme_color": "#6157dd",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
